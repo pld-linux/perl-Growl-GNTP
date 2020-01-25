@@ -4,7 +4,6 @@
 #
 %define		pdir	Growl
 %define		pnam	GNTP
-%include	/usr/lib/rpm/macros.perl
 Summary:	Growl::GNTP - Perl implementation of GNTP Protocol (Client Part)
 Name:		perl-Growl-GNTP
 Version:	0.20
