@@ -7,7 +7,7 @@
 Summary:	Growl::GNTP - Perl implementation of GNTP Protocol (Client Part)
 Name:		perl-Growl-GNTP
 Version:	0.20
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
